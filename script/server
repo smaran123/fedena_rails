@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+# require File.dirname(__FILE__) + '/../config/boot'
+require '/home/pravinkumarvaja/rails_workspace/fedena-v2.3-bundle-win/config/boot.rb'
+require 'commands/server'
